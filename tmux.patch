@@ -1,7 +1,7 @@
-diff --git a/powerline/block/cyan.tmuxtheme b/powerline/block/cyan.tmuxtheme
+diff --git a/plugins/tmux-themepack/powerline/block/cyan.tmuxtheme b/powerline/block/cyan.tmuxtheme
 index 0c5ec9a..c1a5ff1 100644
---- a/powerline/block/cyan.tmuxtheme
-+++ b/powerline/block/cyan.tmuxtheme
+--- a/plugins/tmux-themepack/powerline/block/cyan.tmuxtheme
++++ b/plugins/tmux-themepack/powerline/block/cyan.tmuxtheme
 @@ -100,7 +100,8 @@ set -goqF @theme-pane-border-fg "#{@powerline-color-grey-3}"
  set -goqF @theme-status-bg "#{@powerline-status-bg}"
  set -goqF @theme-status-fg "#{@powerline-status-fg}"
